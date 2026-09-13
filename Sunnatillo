@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+
+        <div>
+            <a href="https://www.instagram.com/uktamovich_sunnatillo?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==">Instagram</a>
+            <a href="https://t.me/Sunnatillo_style">Telegram</a>
+        </div>
+
+        <div>
+            <a class="chan-1" href="https://t.me/musiqalarsclas">CHANNEL</a>
+        </div>
+
+    </header>
+
+    <section>
+
+        <div class="b-1">
+            <h1>UKTAMOVICH SUNNATILLO RAJABBOYEV</h1>
+            <h2>My Future Job</h2>
+            <p>I want to be a dentist in the future. I like this job because I want to help people. I want to study hard and become a good dentist. I will make people's teeth healthy and beautiful. This is my dream job.</p>
+        </div>
+
+        <div>
+            <img src="https://github.com/uzd303/xushnud/blob/main/ChatGPT%20Image%20Sep%2013,%202026,%2010_40_47%20AM.png?raw=true" alt="">
+        </div>
+
+    </section>
+</body>
